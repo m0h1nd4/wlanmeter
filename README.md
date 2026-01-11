@@ -21,7 +21,7 @@ Measures internet speed (download/upload), WLAN signal quality, and logs results
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wlanmeter.git
+git clone https://github.com/m0h1nd4/wlanmeter.git
 cd wlanmeter
 
 # Make executable (Linux/macOS)
